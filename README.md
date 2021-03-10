@@ -12,6 +12,10 @@ Unsupervised Refinement of a LOINC based COVID-19 Knowledge Graph
 * [BioPortal Annotator](https://bioportal.bioontology.org/annotator)
 * [BioBERT](https://github.com/dmis-lab/biobert)
 
+## Files 
+
+* `loinc_kg_relation_frequency.csv`: Contains all codes used in the final LOINC-based COVID-19 knowledge graph, as well as their number of relations.
+
 ## References from Presentation
 
 * Hogan, Aidan, et al. "Knowledge graphs." arXiv preprint arXiv:2003.02320 (2020).

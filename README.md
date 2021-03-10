@@ -22,4 +22,3 @@ Unsupervised Refinement of a LOINC based COVID-19 Knowledge Graph
 * Wang, Lucy Lu, et al. "Cord-19: The covid-19 open research dataset." ArXiv (2020).
 * Wang, Xiaoli, et al. "Effective medical archives processing using knowledge graphs." Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019.
 * Wise, Colby, et al. "COVID-19 knowledge graph: accelerating information retrieval and discovery for scientific literature." arXiv preprint arXiv:2007.12731 (2020).
-![image](https://user-images.githubusercontent.com/51389662/110649659-ca53f500-8187-11eb-9988-c7b944fd7173.png)

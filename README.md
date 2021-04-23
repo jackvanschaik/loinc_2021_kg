@@ -1,5 +1,5 @@
 # loinc_2021_kg
-Unsupervised Refinement of a LOINC based COVID-19 Knowledge Graph
+Unsupervised Refinement of a LOINC based COVID-19 Knowledge Graph, presented at LOINC conference 2021.  Slides are in the repository, link above. 
 
 * [Talk Abstract on LOINC](https://loinc.org/conference/virtual-2021/presentations/#vanschaik)
 
